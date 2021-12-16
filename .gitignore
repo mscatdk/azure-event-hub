@@ -1,0 +1,8 @@
+target
+src/main/resources/confluent_azure.properties
+src/main/resources/confluent.properties
+src/main/resources/eventhub_pu.properties
+src/main/resources/eventhub_tu.properties
+.project
+.classpath
+.settings
